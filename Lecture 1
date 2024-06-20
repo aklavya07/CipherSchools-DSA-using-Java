@@ -1,0 +1,32 @@
+*we studied difference between procedural programming and object oriented programming***
+
+-> procedural programming (POP)
+1) derived from structural programming
+2) a program is divided into small parts called functions
+3) functiona are more important than data
+4) no way for hifding data so it is less secure
+5) adding new data and functions is not easy as we are supposed to foloow a structure
+6) based on unreal world
+7) it follows top down approach
+
+-> object oriented programming (OOP)
+1) based on real world
+2) follows bottom up approach
+3) adding new data and functions is easy .
+4) hiding data is possible so it makes it more secure
+5) programs is divided into small parts called objects 
+6) data is more important than the functions
+
+-> Objects and Classes in Java 
+---------------------------
+objects-->
+An entity that has state and behavior is known as an object e.g., chair, bike, marker, pen, table, car, etc. It can be physical or logical (tangible and intangible). The example of an intangible object is the banking system.
+class->
+A class is a group of objects which have common properties. It is a template or blueprint from which objects are created. It is a logical entity. It can't be physical.
+A class in Java can contain:
+    ->Fields
+    ->Methods
+    ->Constructors
+    ->Blocks
+    ->Nested class and interface
+An object is an instance of a class.
